@@ -4,7 +4,7 @@ Rotate your AWS credentials stored in your EPS secret manager account.
 
 #### TLD
 
-![Diagram by Jaziel Lopez](https://raw.githubusercontent.com/jaziel-lopez/eps-aws-key-rotation/master/esp.dia.keyrotation.png "Diagram by Jaziel Lopez")
+![Diagram by Jaziel Lopez](https://raw.githubusercontent.com/jaziel-lopez/eps-aws-key-rotation/master/esp.dia.keyrotation.raw.png "Diagram by Jaziel Lopez")
 
 
 #### ABSTRACT
