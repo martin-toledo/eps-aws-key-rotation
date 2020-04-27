@@ -2,6 +2,11 @@
 
 Rotate your AWS credentials stored in your EPS secret manager account.
 
+#### TLD
+
+![Diagram by Jaziel Lopez](https://raw.githubusercontent.com/jaziel-lopez/eps-aws-key-rotation/master/esp.dia.keyrotation.png "Diagram by Jaziel Lopez")
+
+
 #### ABSTRACT
 
 > Changing access keys (which consist of an access key ID and a secret access key) on a regular schedule is a 
